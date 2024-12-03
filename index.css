@@ -10,8 +10,7 @@ body{
 
 .white{
     background-color:  hsl(0, 0%, 100%);
-    width: 100%;
-    height: 100vh;
+    width: 50%;
     padding: 5px 5px;
     border-radius: 15px;
 }
